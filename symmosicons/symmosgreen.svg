@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: SketchAPI 2022.10.24.12 https://api.sketch.io -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketchjs="https://sketch.io/dtd/" sketchjs:metadata="eyJuYW1lIjoiRHJhd2luZy0zLnNrZXRjaHBhZCIsInN1cmZhY2UiOnsiaXNQYWludCI6dHJ1ZSwibWV0aG9kIjoiZmlsbCIsImJsZW5kIjoibm9ybWFsIiwiZW5hYmxlZCI6dHJ1ZSwib3BhY2l0eSI6MSwidHlwZSI6InBhdHRlcm4iLCJwYXR0ZXJuIjp7InR5cGUiOiJwYXR0ZXJuIiwicmVmbGVjdCI6Im5vLXJlZmxlY3QiLCJyZXBlYXQiOiJyZXBlYXQiLCJzbW9vdGhpbmciOmZhbHNlLCJzcmMiOiJ0cmFuc3BhcmVudExpZ2h0Iiwic3giOjEsInN5IjoxLCJ4MCI6MC41LCJ4MSI6MSwieTAiOjAuNSwieTEiOjF9LCJpc0ZpbGwiOnRydWV9LCJjbGlwUGF0aCI6eyJlbmFibGVkIjp0cnVlLCJzdHlsZSI6eyJzdHJva2VTdHlsZSI6ImJsYWNrIiwibGluZVdpZHRoIjoxfX0sImRlc2NyaXB0aW9uIjoiTWFkZSB3aXRoIFNrZXRjaHBhZCIsIm1ldGFkYXRhIjp7fSwiZXhwb3J0RFBJIjo3MiwiZXhwb3J0Rm9ybWF0IjoicG5nIiwiZXhwb3J0UXVhbGl0eSI6MC45NSwidW5pdHMiOiJweCIsIndpZHRoIjo2NDAsImhlaWdodCI6MjU2LCJwYWdlcyI6W3sid2lkdGgiOjY0MCwiaGVpZ2h0IjoyNTZ9XSwidXVpZCI6IjI3NDRlZGQ0LWNlNDMtNDc3MS05ZTM0LWZmZmRjM2U3MzEyMCJ9" width="640" height="256" viewBox="0 0 640 256">
+<defs>
+	<linearGradient id="dna_1419601161" gradientUnits="userSpaceOnUse" x1="606" x2="0" y1="224.12399999999997" y2="3.876">
+		<stop offset="0" style="stop-color:rgb(179, 179, 0);stop-opacity:1;"/>
+		<stop offset="0.00001" style="stop-color:rgb(0, 179, 0);stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:rgb(0, 255, 0);stop-opacity:1;"/>
+	</linearGradient>
+	<linearGradient id="dna_3153874236" gradientUnits="userSpaceOnUse" x1="0" x2="606" y1="58.367999999999995" y2="169.63199999999998">
+		<stop offset="0.015919734761939863" style="stop-color:rgb(0, 122, 0);stop-opacity:1;"/>
+		<stop offset="1" style="stop-color:rgb(0, 153, 0);stop-opacity:1;"/>
+	</linearGradient>
+</defs>
+<path style="fill: url(#dna_1419601161); stroke: url(#dna_3153874236); mix-blend-mode: source-over; paint-order: stroke fill markers; fill-opacity: 1; stroke-dasharray: none; stroke-dashoffset: 0; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-opacity: 1; stroke-width: 23; vector-effect: non-scaling-stroke;" sketchjs:tool="rectangle" d="M60.931 0 L545.069 0 Q570.307 0 588.154 17.749 606 35.499 606 60.6 L606 167.4 Q606 192.501 588.154 210.251 570.307 228 545.069 228 L60.931 228 Q35.693 228 17.846 210.251 0 192.501 0 167.4 L0 60.6 Q0 35.499 17.846 17.749 35.693 0 60.931 0 z" transform="matrix(1.0196399345335516,0,0,1.0252100840336134,11.37847900390625,11.26275634765625)"/>
+</svg>
