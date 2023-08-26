@@ -147,6 +147,51 @@ while h:
         if round(offset4) <= -100:
             offset4 = -300
             animationplaying = False
+    elif animstate == 12:
+        offset1 = retract1(offset1)
+        if round(offset1) <= -100:
+            offset1 = -300
+        offset2 /= oc1
+        offset2 *= oc2
+        if round(offset2) == 0:
+            offset2 = 0
+        offset3 = retract3(offset3)
+        if round(offset3) <= -100:
+            offset3 = -300
+        offset4 = retract4(offset4)
+        if round(offset4) <= -100:
+            offset4 = -300
+            animationplaying = False
+    elif animstate == 13:
+        offset1 = retract1(offset1)
+        if round(offset1) <= -100:
+            offset1 = -300
+        offset2 = retract2(offset2)
+        if round(offset2) <= -100:
+            offset2 = -300
+        offset3 /= oc1
+        offset3 *= oc2
+        if round(offset3) == 0:
+            offset3 = 0
+        offset4 = retract4(offset4)
+        if round(offset4) <= -100:
+            offset4 = -300
+            animationplaying = False
+    elif animstate == 14:
+        offset1 = retract1(offset1)
+        if round(offset1) <= -100:
+            offset1 = -300
+        offset2 = retract2(offset2)
+        if round(offset2) <= -100:
+            offset2 = -300
+        offset3 = retract3(offset3)
+        if round(offset3) <= -100:
+            offset3 = -300
+        offset4 /= oc1
+        offset4 *= oc2
+        if round(offset4) == 0:
+            offset4 = 0
+            animationplaying = False
     for event in pg.event.get():
         if event.type in [pg.QUIT]:
             h = 0
@@ -225,6 +270,6 @@ while h:
         win.blit(btn2x, (335 if width >= 1000 else 295, 70+offset2))
         win.blit(btn4, (735 if width >= 1000 else (695-80), 50+offset4))
         win.blit(btn4x, (735 if width >= 1000 else (695-80), 70+offset4))
-    cl.tick(60)
+    cl.tick(30)
     pg.display.flip()
 pg.quit()
